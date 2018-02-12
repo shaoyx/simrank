@@ -1,6 +1,0 @@
-[default]
-decay_factor 0.6
-num_iter 10
-rg 100
-rq 20
-
