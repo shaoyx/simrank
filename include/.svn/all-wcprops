@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/simon/!svn/ver/136/project-code/branches/Tools/cpp/SimRank/include
+END
+io_mmap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/io_mmap.hpp
+END
+compressdiskbasedrsg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/simon/!svn/ver/133/project-code/branches/Tools/cpp/SimRank/include/compressdiskbasedrsg.hpp
+END
+onewaygraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/simon/!svn/ver/58/project-code/branches/Tools/cpp/SimRank/include/onewaygraph.h
+END
+rsamplegraph.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/simon/!svn/ver/132/project-code/branches/Tools/cpp/SimRank/include/rsamplegraph.hpp
+END
+rgsmanager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/simon/!svn/ver/77/project-code/branches/Tools/cpp/SimRank/include/rgsmanager.hpp
+END
+simmap.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/simon/!svn/ver/136/project-code/branches/Tools/cpp/SimRank/include/simmap.hpp
+END
+FingerPrint.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/simon/!svn/ver/81/project-code/branches/Tools/cpp/SimRank/include/FingerPrint.h
+END
+gsinterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/simon/!svn/ver/77/project-code/branches/Tools/cpp/SimRank/include/gsinterface.h
+END
+meminfo.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/meminfo.hpp
+END
+myqueue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/simon/!svn/ver/90/project-code/branches/Tools/cpp/SimRank/include/myqueue.hpp
+END
+dynamicowgmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/simon/!svn/ver/76/project-code/branches/Tools/cpp/SimRank/include/dynamicowgmanager.h
+END
+diskrgsmanager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/simon/!svn/ver/39/project-code/branches/Tools/cpp/SimRank/include/diskrgsmanager.hpp
+END
+SimRankMOD14Index.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/simon/!svn/ver/77/project-code/branches/Tools/cpp/SimRank/include/SimRankMOD14Index.h
+END
+simrankvalue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/simon/!svn/ver/105/project-code/branches/Tools/cpp/SimRank/include/simrankvalue.hpp
+END
+gsmanager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/simon/!svn/ver/49/project-code/branches/Tools/cpp/SimRank/include/gsmanager.hpp
+END
+mytime.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/simon/!svn/ver/1/project-code/branches/Tools/cpp/SimRank/include/mytime.h
+END
+diskbasedrsg.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/simon/!svn/ver/58/project-code/branches/Tools/cpp/SimRank/include/diskbasedrsg.hpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/simon/!svn/ver/42/project-code/branches/Tools/cpp/SimRank/include/config.h
+END
+simrankmethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/simon/!svn/ver/77/project-code/branches/Tools/cpp/SimRank/include/simrankmethod.h
+END
+SimRankMOD14.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/simon/!svn/ver/77/project-code/branches/Tools/cpp/SimRank/include/SimRankMOD14.h
+END
+topsim.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/simon/!svn/ver/99/project-code/branches/Tools/cpp/SimRank/include/topsim.h
+END
+logmanager.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/simon/!svn/ver/57/project-code/branches/Tools/cpp/SimRank/include/logmanager.h
+END
+accuratesimrank.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/simon/!svn/ver/77/project-code/branches/Tools/cpp/SimRank/include/accuratesimrank.h
+END
+compressdiskrgsmanager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/simon/!svn/ver/82/project-code/branches/Tools/cpp/SimRank/include/compressdiskrgsmanager.hpp
+END
+SimRankWWW05.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/simon/!svn/ver/102/project-code/branches/Tools/cpp/SimRank/include/SimRankWWW05.h
+END
+srgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/simon/!svn/ver/90/project-code/branches/Tools/cpp/SimRank/include/srgs.h
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/simon/!svn/ver/41/project-code/branches/Tools/cpp/SimRank/include/logger.h
+END
+random.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/simon/!svn/ver/1/project-code/branches/Tools/cpp/SimRank/include/random.h
+END

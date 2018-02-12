@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/google/sparsehash
+END
+hashtable-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/google/sparsehash/hashtable-common.h
+END
+libc_allocator_with_realloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/google/sparsehash/libc_allocator_with_realloc.h
+END
+sparsehashtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/google/sparsehash/sparsehashtable.h
+END
+densehashtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/google/sparsehash/densehashtable.h
+END

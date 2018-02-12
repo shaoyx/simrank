@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/sparsehash
+END
+sparse_hash_set
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/sparsehash/sparse_hash_set
+END
+dense_hash_set
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/sparsehash/dense_hash_set
+END
+sparse_hash_map
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/sparsehash/sparse_hash_map
+END
+type_traits.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/sparsehash/type_traits.h
+END
+dense_hash_map
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/sparsehash/dense_hash_map
+END
+template_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/sparsehash/template_util.h
+END
+sparsetable
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/simon/!svn/ver/18/project-code/branches/Tools/cpp/SimRank/include/sparsehash/sparsetable
+END
